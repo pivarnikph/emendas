@@ -10,7 +10,7 @@ def load_data(file_path):
     return data
 
 # Carregue o arquivo analisado
-file_path = '/content/IA_Emendas2025.xlsx'  # Atualize para o caminho correto
+file_path = 'IA_Emendas2025.xlsx'  # Atualize para o caminho correto
 data = load_data(file_path)
 
 # Título do painel
